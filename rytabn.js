@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Remove YouTube Ad Blocker Notification
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/iamlikeyou/remove-youtube-ad-blocker-notification/
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @description  Removes the youtube ad blockers are not allowed notification and replaces it with the youtube embeded player.
+// @author       iamlikeyou
 // @match        https://www.youtube.com/watch*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
 // @grant        none
